@@ -1,0 +1,10 @@
+{
+  "name": "01-tooling-actual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
