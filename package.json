@@ -1,10 +1,9 @@
 {
-  "name": "01-tooling-actual",
+  "name": "01-dev-tooling-101",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
-  "author": "",
+  "scripts": {},
+  "author": "Uri Klar",
   "license": "ISC"
 }
